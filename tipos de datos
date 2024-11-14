@@ -1,0 +1,20 @@
+# Cadena
+nombre = "Ruben"
+
+# Entero
+edad = 27
+
+# Lista
+frutas_preferidas = ["mango","banano","pera"]
+
+# Conjunto
+color_preferido = ["cafe claro"]
+
+# Booleano
+es_estudiante = True
+
+# Diccionario
+persona = {"nombre":"Ruben","edad":27}
+
+# Flotante
+precio = 19.99
