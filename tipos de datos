@@ -1,3 +1,4 @@
+# Los tipos de datos son fundamentales para definir el tipo y la naturaleza de los valores con los que un programa va a trabajar.
 # Cadena
 nombre = "Ruben"
 
